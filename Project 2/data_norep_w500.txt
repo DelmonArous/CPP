@@ -1,0 +1,13 @@
+Number of iterations: 50873
+Rho_max =       7.0000000
+Number of steps: n =             200
+Execution time by using Armadillo function: 0.067000002 s
+Execution time by using Jacobis method: 241.59399 s
+Three lowest eigenvalues: 
+      14.990423	      14.990423
+      34.952082	      34.952082
+      54.882991	      54.882991
+The relative errors: 
+     0.60171325	     0.60171325
+     0.60131611	     0.60131611
+     0.60090354	     0.60090354
